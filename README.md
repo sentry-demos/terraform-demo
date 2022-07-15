@@ -1,3 +1,3 @@
 # terraform-demo
 
-![demo_tf_sentry_gif](https://user-images.githubusercontent.com/108364755/179266484-6133292e-d61f-4577-95e4-7b58751240da.gif)
+![sentry_tf_demo](https://user-images.githubusercontent.com/108364755/179266859-7dbcdde9-dcde-4774-b60c-5e1b7f5a123a.gif)
