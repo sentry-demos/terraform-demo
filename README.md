@@ -8,7 +8,7 @@ A Terraform provider is a way for developers to programmatically interact with a
 ## Setup
 1. `terraform init`
 2. Either:
- a. `export SENTRY_AUTH_TOKEN=<DSN key>
+ a. `export SENTRY_AUTH_TOKEN = DSN_KEY`
  OR
  b. Follow instructions [here](https://registry.terraform.io/providers/jianyuan/sentry/latest/docs#example-usage)
 3. `terraform plan` to check what resources Terraform will create based on the `main.tf` file.
